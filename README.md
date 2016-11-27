@@ -1,11 +1,17 @@
-# Stunden Dokumentation
-## Stride-Lernaktivitaeten
+# Informatik Dokumentation
+
+## Einleitung
+
+Da Jasmin und ich noch keine Erfahrungen im Programmieren hatten, haben wir uns erstmal mit den Tutorials für Anfänger vertraut gemacht. Nachdem wir das Prinzip verstanden hatten haben wir uns darauf geeinigt unser Projekt mit Greenfoot zu erstellen. 
+Mithilfe der GF Stride Lernaktivitäten wollten wir unsere Programmierkenntnisse erweitern und letztendlich ein eigenes Projekt entwickeln. Nachdem wir ein paar Arbeitsblätter der Lernaktivität durchgearbeitet hatten, begannen wir eine eigene "Welt" mit unseren erlernten Fähigkeiten zu füllen. Es sollte eigentlich nur eine kleine Spielerei sein, in der wir unser neu erlangtes Wissen einbauen, aber nach und nach entwickelte es sich zu einem richtigen Projekt, woran wir dann auch arbeiteten.
+Nachfolgend beschreiben wir unsere Tätigkeiten während der Informatik Stunden und den Inhalt unseres Spiels.
+## GF Stride-Lernaktivitaeten
 
 **22.09.16**
 Jasmin und ich haben uns, nachdem wir uns kurze Zeit mit dem 2. Kurs auf https://studio.code.org/ beschäftigt hatten, entschieden die Greenfoot Stride Lernaktivitäten zu bearbeiten. In dieser Doppelstunde haben wir mit dem ersten Arbeistblatt angefangen.
 
 **26.09.16**
-In dieser Stunde haben Jasmin und ich weiter an dem ersten Arbeitsblatt der Stride Lernaktivität gearbeitet und uns mit den gegebenen Befehlen und Methoden vertrtaut gemacht.
+In dieser Stunde haben Jasmin und ich weiter an dem ersten Arbeitsblatt der Stride Lernaktivität gearbeitet und uns mit den gegebenen Befehlen und Methoden vertraut gemacht.
 
 **29.09.16**
 Heute haben wir das erste Arbeitsblatt erfolgreich durchgearbeitet und haben nun mit dem nächsten Arbeitsblatt mit Namen _FatCat_ angefangen.
