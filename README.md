@@ -39,3 +39,8 @@ Diese Stunde haben wir uns überlegt, welche Möglichkeiten es gibt unsere gepla
 
 **24.11.16**
 Da wir noch immer keine Lösung für unser Hinderniss Problem gefunden haben, haben wir uns mit anderen Dingen beschäftigt, wie das Vergrößern unseres Spielfeldes.
+
+## Das Halunken Scenatrio
+Unsere eigens angefertigte Welt mit Namen _Halunken Scenatrio_ stellt ein Fangspiel für zwei Personen da. Die Welt ist eine Mauer mit einem sich darauf befindenden Mauerblümchen. Das Mauerblümchen (_flower_) ist einer der beiden _actor_, eine Schildkröte (_turtla_) ist der zweite. Die beiden Spieler können mit diesen beiden Figuren, welche durch die Tastatur gesteuert werden, umherlaufen. Die Schildkröte wird bei Berührung der Blume "gefressen" und versucht deshalb vor der Blume zu fliehen. 
+Da das Spiel somit etwas unfair für den Spieler der Schildkröte wäre, haben wir noch einen Gegner für die Blume programmiert: ein Schwein namens _DirtyPig_. Dieses bewegt sich durch das Feld und wechselt an den Kanten des Spiefeldes willkürlich die Richtung.
+Wir planen noch ein paar Hindernisse in Form von Fässern (_barrels_) hinter welchen man Schutz suchen kann und man nicht hindurchlaufen kann. Wie man das programmiert, müssen wir aber noch rausfinden. 
