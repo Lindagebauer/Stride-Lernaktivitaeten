@@ -47,6 +47,14 @@ Diese Stunde haben wir uns überlegt, welche Möglichkeiten es gibt unsere gepla
 Da wir noch immer keine Lösung für unser Hinderniss Problem gefunden haben, haben wir uns mit anderen Dingen beschäftigt, wie das Vergrößern unseres Spielfeldes.
 
 ## Das Halunken Scenatrio
+
 Unsere eigens angefertigte Welt mit Namen _Halunken Scenatrio_ stellt ein Fangspiel für zwei Personen da. Die Welt ist eine Mauer mit einem sich darauf befindenden Mauerblümchen. Das Mauerblümchen (_flower_) ist einer der beiden _actor_, eine Schildkröte (_turtla_) ist der zweite. Zwei Spieler können mit diesen beiden Figuren, welche durch die Tastatur gesteuert werden, umherlaufen. Die Schildkröte wird bei Berührung der Blume "gefressen" und versucht deshalb vor der Blume zu fliehen. 
 Da das Spiel somit etwas unfair für den Spieler der Schildkröte wäre, haben wir noch einen Gegner für die Blume programmiert: ein Schwein namens _DirtyPig_. Dieses bewegt sich durch das Feld und wechselt an den Kanten des Spiefeldes willkürlich die Richtung.
-Wir planen noch ein paar Hindernisse in Form von Fässern (_barrels_) hinter welchen man Schutz suchen kann und man nicht hindurchlaufen kann. Wie man das programmiert, müssen wir aber noch rausfinden. 
+
+### Ausblick
+
+Wir planen noch ein paar Hindernisse in Form von Fässern (_barrels_) hinter welchen man Schutz suchen kann und man nicht hindurchlaufen kann. Wie man das programmiert, müssen wir aber noch rausfinden. Generell haben wir noch vor die Steuerung etwas komfortabler zu gestalten, da sie noch nicht ganz optimal ist. Später könnte man noch Soundeffekte oder ähnliches einfügen und vielleicht mehrere Level erstellen. Dadurch dass unser Halunken Scenatrio so unkompliziert aufgebaut ist, sind auf jeden Fall noch eine ganze Menge neuer Möglichkeiten da. Denn es ist flexibel was neue Elemente wie _actors_ oder ähnliches angeht.
+
+## Fazit
+
+Insgesamt haben wir in den Wochen in denen wir an unserem Projekt gearbeitet haben eine Menge zum Thema progrmmieren gelernt. Die Grundlagen wurden uns mithilfe der verschiedenen Programme auf eine sehr verständliche Art und Weise beigebracht und wir konnten infolgedessen unser eigenes Projekt kreieren, was uns viel Spaß gemacht hat. Je mehr wir in den Lernaktivitäten noch lernen, desto mehr können wir auch später eigenständig in unser Projekt einfließen lassen. Da wir noch viel lernen können, gibt es noch lange kein Ende für unser Halunken Scenatrio.
