@@ -10,7 +10,7 @@ In dieser Stunde haben Jasmin und ich weiter an dem ersten Arbeitsblatt der Stri
 **29.09.16**
 Heute haben wir das erste Arbeitsblatt erfolgreich durchgearbeitet und haben nun mit dem nächsten Arbeitsblatt mit Namen _FatCat_ angefangen.
 
-[FatCat](http://www.greenfoot.org/book/etudes/images/fatcat.png)
+![FatCat](http://www.greenfoot.org/book/etudes/images/fatcat.png)
 
 **03.10.16**
 _Tag der Deutschen Einheit_
